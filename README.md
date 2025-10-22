@@ -6,7 +6,7 @@ Built with **HTML5, CSS3, and JavaScript**, this responsive website highlights a
 ---
 
 ## 🚀 Live Demo  
-👉 [Live Preview Link](#) 
+👉 [Live Preview Link](#https://leno-app-delta.vercel.app/) 
 
 ---
 
